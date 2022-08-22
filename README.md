@@ -1,0 +1,1 @@
+# Terrain-Classification-on-satelight-image-using-bayes-classifier
